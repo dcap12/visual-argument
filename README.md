@@ -1,2 +1,3 @@
 # visual-argument
 This repository includes all of the files for my visual argument project.
+For this assignment, I want to create a strong visual argument against fast fashion and overconsumption by highlighting their negative effects on the environment. The average American produces 82 tons of textile waste annually, and companies like Zara, SHEIN, Old Navy, H&M, and Gap are the largest producers of textiles and generate the fastest fashion waste. I hope that viewers see this visual and understand the consequences of shopping at large fast fashion companies and are persuaded to shop elsewhere at environmentally cautious, slow fashion companies.
